@@ -144,12 +144,12 @@ def searchfood():
                 | --------------------------------------------------------------------- |                
                 | ID Found                                                              | 
                 | ===================================================================== |      
-                | --- Name Food: {regbox2[id][0]}                                                       |
-                | --- Expiration Date: {regbox2[id][1]}                                                 |
-                | --- Type Food: {regbox2[id][2]}                                  |
-                | --- Calories: {regbox2[id][3]}                                           |
-                | --- Features: {regbox2[id][4]}                                                    |
-                |                                                                       |
+                | --- Name Food: {regbox2[id][0]}                                                       
+                | --- Expiration Date: {regbox2[id][1]}                                               
+                | --- Type Food: {regbox2[id][2]}                                 
+                | --- Calories: {regbox2[id][3]}                                           
+                | --- Features: {regbox2[id][4]}                                                 
+                |                                                                       
                 | ===================================================================== |        
                 
                 ''')
@@ -221,11 +221,11 @@ def editfood():
                                     | ============================================================================= |
                                     | >>> We Will Edit Your Information                                         <<< |
                                     | ============================================================================= |
-                                    | >>> Name Food: {regbox2[id][0]}                                           <<< |
-                                    | >>> Expiration Date: {regbox2[id][1]}                                     <<< |
-                                    | >>> Type Food: {regbox2[id][2]}                                           <<< |
-                                    | >>> Calories Food: {regbox2[id][3]}                                       <<< |
-                                    | >>> Features: {regbox2[id][4]}                                            <<< |
+                                    | >>> Name Food: {regbox2[id][0]}                                           
+                                    | >>> Expiration Date: {regbox2[id][1]}                                     
+                                    | >>> Type Food: {regbox2[id][2]}                                          
+                                    | >>> Calories Food: {regbox2[id][3]}                                       
+                                    | >>> Features: {regbox2[id][4]}                                            
                                     | ============================================================================= |
                                         
                                 ''')
@@ -246,11 +246,11 @@ def editfood():
                                     | ============================================================================= |
                                     | >>> We Will Edit Your Information                                         <<< |
                                     | ============================================================================= |
-                                    | >>> Name Food: {regbox2[id][0]}                                           <<< |
-                                    | >>> Expiration Date: {regbox2[id][1]}                                     <<< |
-                                    | >>> Type Food: {regbox2[id][2]}                                           <<< |
-                                    | >>> Calories Food: {regbox2[id][3]}                                       <<< |
-                                    | >>> Features: {regbox2[id][4]}                                            <<< |
+                                    | >>> Name Food: {regbox2[id][0]}                                           
+                                    | >>> Expiration Date: {regbox2[id][1]}                                     
+                                    | >>> Type Food: {regbox2[id][2]}                                          
+                                    | >>> Calories Food: {regbox2[id][3]}                                       
+                                    | >>> Features: {regbox2[id][4]}                                           
                                     | ============================================================================= |
                                         
                                 ''')
@@ -272,11 +272,11 @@ def editfood():
                                     | ============================================================================= |
                                     | >>> We Will Edit Your Information                                         <<< |
                                     | ============================================================================= |
-                                    | >>> Name Food: {regbox2[id][0]}                                           <<< |
-                                    | >>> Expiration Date: {regbox2[id][1]}                                     <<< |
-                                    | >>> Type Food: {regbox2[id][2]}                                           <<< |
-                                    | >>> Calories Food: {regbox2[id][3]}                                       <<< |
-                                    | >>> Features: {regbox2[id][4]}                                            <<< |
+                                    | >>> Name Food: {regbox2[id][0]}                                        
+                                    | >>> Expiration Date: {regbox2[id][1]}         
+                                    | >>> Type Food: {regbox2[id][2]}                                     
+                                    | >>> Calories Food: {regbox2[id][3]}                                   
+                                    | >>> Features: {regbox2[id][4]}                                        
                                     | ============================================================================= |
                                         
                                 ''')
@@ -298,11 +298,11 @@ def editfood():
                                     | ============================================================================= |
                                     | >>> We Will Edit Your Information                                         <<< |
                                     | ============================================================================= |
-                                    | >>> Name Food: {regbox2[id][0]}                                           <<< |
-                                    | >>> Expiration Date: {regbox2[id][1]}                                     <<< |
-                                    | >>> Type Food: {regbox2[id][2]}                                           <<< |
-                                    | >>> Calories Food: {regbox2[id][3]}                                       <<< |
-                                    | >>> Features: {regbox2[id][4]}                                            <<< |
+                                    | >>> Name Food: {regbox2[id][0]}                                           
+                                    | >>> Expiration Date: {regbox2[id][1]}                                     
+                                    | >>> Type Food: {regbox2[id][2]}                                   
+                                    | >>> Calories Food: {regbox2[id][3]}                                 
+                                    | >>> Features: {regbox2[id][4]}                                       
                                     | ============================================================================= |
                                         
                                 ''')
@@ -324,11 +324,11 @@ def editfood():
                                 | ============================================================================= |
                                 | >>> We Will Edit Your Information                                         <<< |
                                 | ============================================================================= |
-                                | >>> Name Food: {regbox2[id][0]}                                           <<< |
-                                | >>> Expiration Date: {regbox2[id][1]}                                     <<< |
-                                | >>> Type Food: {regbox2[id][2]}                                           <<< |
-                                | >>> Calories Food: {regbox2[id][3]}                                       <<< |
-                                | >>> Features: {regbox2[id][4]}                                            <<< |
+                                | >>> Name Food: {regbox2[id][0]}                                       
+                                | >>> Expiration Date: {regbox2[id][1]}                                 
+                                | >>> Type Food: {regbox2[id][2]}                              
+                                | >>> Calories Food: {regbox2[id][3]}                                      
+                                | >>> Features: {regbox2[id][4]}                                      
                                 | ============================================================================= |
                             ''')   
                             print("New features successfully registered!")
